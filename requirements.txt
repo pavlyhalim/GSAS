@@ -1,11 +1,2 @@
 google-generativeai
-pandas
-typing
-datetime
-logging
-pathlib
-asyncio
-io
-collections
-time
 docx
