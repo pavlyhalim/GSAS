@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+pandas
+typing
+json
+re
+datetime
+logging
+pathlib
+asyncio
+io
+collections
+time
+docx
