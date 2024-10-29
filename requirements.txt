@@ -1,2 +1,6 @@
 google-generativeai
-docx
+pandas
+typing
+datetime
+logging
+pathlib
