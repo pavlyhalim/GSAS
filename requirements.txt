@@ -2,7 +2,6 @@ streamlit
 google-generativeai
 pandas
 typing
-json
 re
 datetime
 logging
