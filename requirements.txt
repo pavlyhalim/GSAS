@@ -1,7 +1,6 @@
 google-generativeai
 pandas
 typing
-re
 datetime
 logging
 pathlib
