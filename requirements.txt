@@ -4,3 +4,4 @@ typing
 datetime
 logging
 pathlib
+streamlit
