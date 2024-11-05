@@ -6,3 +6,4 @@ logging
 pathlib
 streamlit
 python-docx 
+pip install plotly-express
