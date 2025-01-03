@@ -84,6 +84,8 @@ The `ana.py` script is designed to:
 
 ### 3. **Enter Gemini API Key**
    - In the sidebar, enter your **Google Gemini API Key**. This is required for the app to function.
+   - Check this link to get Gemini API Key [Gemini API](https://ai.google.dev/gemini-api/docs)
+
 
 ### 4. **Upload Interview Transcripts**
    - Upload one or more `.txt` or `.docx` files containing interview transcripts.
